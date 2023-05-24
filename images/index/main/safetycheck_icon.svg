@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51.441" height="59.858" viewBox="0 0 51.441 59.858">
+  <g id="safetycheck_icon" transform="translate(443.615 -1026.528)">
+    <path id="패스_173" data-name="패스 173" d="M-400.165,1027.028h-35.459a7.491,7.491,0,0,0-7.492,7.491v35.46a7.491,7.491,0,0,0,7.492,7.49h23.481s3.853,8.757,10.859,8.407c0,0-2.8-4.379-1.576-8.407h2.694a7.491,7.491,0,0,0,7.491-7.49v-35.46A7.49,7.49,0,0,0-400.165,1027.028Z" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+    <g id="그룹_53" data-name="그룹 53" transform="translate(-433.051 1035.453)">
+      <path id="패스_174" data-name="패스 174" d="M-433.383,1040.862s9.494.468,14.91-5.816c0,0,6.084,6.234,14.976,5.825,0,0,3.543,24.261-14.942,28.942C-418.439,1069.812-435.321,1067.805-433.383,1040.862Z" transform="translate(433.538 -1035.045)" fill="#48bad9" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+    <path id="패스_175" data-name="패스 175" d="M-424.791,1050.974l5.323,5.24,8.673-10.48" transform="translate(0.932 0.951)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+</svg>

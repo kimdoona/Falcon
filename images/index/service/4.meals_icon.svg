@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="114" height="106" viewBox="0 0 114 106">
+  <g id="_4.meals_icon" data-name="4.meals_icon" transform="translate(-878 -875)">
+    <rect id="사각형_378" data-name="사각형 378" width="114" height="106" transform="translate(878 875)" fill="none"/>
+    <g id="기내식_icon" transform="translate(742.089 740.029)">
+      <circle id="타원_19" data-name="타원 19" cx="48.849" cy="48.849" r="48.849" transform="translate(144.062 139.122)" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="패스_220" data-name="패스 220" d="M165.194,170.522a31.36,31.36,0,0,0-6.771,23.538c1.78,13.317,11.681,20.243,13.22,21.281" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="패스_221" data-name="패스 221" d="M186.461,220.126a12.433,12.433,0,0,0,6.723,1.591,10.1,10.1,0,0,0,6.25-2.194" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="패스_222" data-name="패스 222" d="M219.411,170.018c1.39,1.456,9.72,10.483,8.028,23.588-1.739,13.463-12.691,20.656-14.393,21.735" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+      <ellipse id="타원_20" data-name="타원 20" cx="11.178" cy="14.044" rx="11.178" ry="14.044" transform="translate(195.754 150.746)" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+      <rect id="사각형_366" data-name="사각형 366" width="5.876" height="44.855" rx="2.938" transform="translate(203.994 182.56)" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="사각형_367" data-name="사각형 367" d="M0,0H5.876a0,0,0,0,1,0,0V2.938A2.938,2.938,0,0,1,2.938,5.876h0A2.938,2.938,0,0,1,0,2.938V0A0,0,0,0,1,0,0Z" transform="translate(203.994 221.539)" fill="#f38b87" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+      <rect id="사각형_368" data-name="사각형 368" width="5.876" height="44.855" rx="2.938" transform="translate(176.025 182.56)" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="사각형_369" data-name="사각형 369" d="M0,0H5.876a0,0,0,0,1,0,0V2.938A2.938,2.938,0,0,1,2.938,5.876h0A2.938,2.938,0,0,1,0,2.938V0A0,0,0,0,1,0,0Z" transform="translate(176.025 221.539)" fill="#f38b87" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="패스_223" data-name="패스 223" d="M167.953,153.134s.238-2.388,2.436-2.388,2.34,2.388,2.34,2.388v15.143s0,2.962,2.2,2.962,2.293-2.819,2.293-2.819V153.278s.191-2.484,2.34-2.532,2.341,2.627,2.341,2.627v14.952s.1,2.914,2.245,2.914,2.293-2.914,2.293-2.914V153.373s.1-2.628,2.245-2.628,2.388,2.58,2.388,2.58v20.732s.192,5.207-4.633,5.207h-13.8s-4.681-.669-4.681-5.207Z" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

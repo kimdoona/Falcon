@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="20" viewBox="0 0 23 20">
+  <g id="ticket.excessbaggage_icon" transform="translate(-1816 -636)">
+    <g id="Excess_baggage_icon" data-name="Excess baggage_icon" transform="translate(333 68)">
+      <path id="빼기_13" data-name="빼기 13" d="M6,12H0V0H6V12ZM1,1V4H5V1Z" transform="translate(1491 570)" fill="#fff"/>
+      <rect id="사각형_281" data-name="사각형 281" width="2" height="9" transform="translate(1498 573)" fill="#fff"/>
+      <rect id="사각형_283" data-name="사각형 283" width="2" height="14" transform="translate(1501 583.5) rotate(90)" fill="#fff"/>
+      <rect id="사각형_282" data-name="사각형 282" width="2" height="9" transform="translate(1488 573)" fill="#fff"/>
+    </g>
+    <rect id="사각형_386" data-name="사각형 386" width="23" height="20" transform="translate(1816 636)" fill="none"/>
+  </g>
+</svg>
